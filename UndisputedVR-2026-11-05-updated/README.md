@@ -10,7 +10,7 @@ Updated build 2026-11-05 for Windows x64
 Keep the extracted folder for launching and uninstalling. The first VR launch can take longer while BepInEx generates game bindings and may need internet access to obtain Unity support libraries. This release includes the version-specific loader compatibility fix for the Steam build tested on 2026-11-05 (Unity 2022.3.45f1). The installer and VR launcher check the GameAssembly.dll fingerprint. If Steam installs a different build, it needs a compatible release.
 
 ## Included settings and features
-The compiled plugin includes the current tracked gloves and forearms, first-person camera, motion punching and contact handling, guard calibration, haptics, VR menus, rope HUD and damage notifications, first-person glove replays, knockdown count, round transitions, Turner Gym-VR venue and lighting optimizations, and the retained frame pacing and HUD improvements. This update refreshes in-view HUD text between fights and includes the opponent tile alignment fix when returning to fighter selection. The bundled profile uses 95% fight speed and the 2400 gameplay eye-dimension limit. SteamVR and Virtual Desktop settings are set separately on your headset or PC.
+The compiled plugin includes the current tracked gloves and forearms, first-person camera, motion punching and contact handling, guard calibration, haptics, VR menus, rope HUD and damage notifications, first-person glove replays, knockdown count, round transitions, Turner Gym-VR venue - optimised for performance.
 
 F6 recentres, F7 captures guard calibration, F8 toggles motion punching, F9 toggles first-person view, and F10 opens the VR resolution panel. Mod config and diagnostic logs live under BepInEx in the game folder.
 
